@@ -1,3 +1,4 @@
+# Custom code to get faces from bounding box from XML  CVAT file.
 import xmltodict
 import matplotlib.pyplot as plt
 
